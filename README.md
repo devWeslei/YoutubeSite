@@ -9,4 +9,4 @@ This project was created in a programming course called Danki.code.
 
 
 ## Functionalities
--fully responsive using only HTML and pure CSS.
+-fully responsive using HTML and pure CSS.
